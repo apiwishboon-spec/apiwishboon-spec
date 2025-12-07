@@ -50,7 +50,7 @@ If your mind is a playground of ideas, we’re already aligned.
 Bringing synergy to my personal tech ecosystem with these essential tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mac,discord" />
+  <img src="https://skillicons.dev/icons?i=python,apple,discord" />
 </p>
 
 
