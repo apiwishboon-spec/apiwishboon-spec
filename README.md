@@ -1,16 +1,25 @@
-🚀 Boon • Student • Builder • Experimental Python Creature
+# Boon
 
-I turn curiosity into small Python experiments that sometimes behave and sometimes evolve into real tools. My workflow is powered by science, psychology, and an unreasonable amount of enthusiasm for testing ideas that may or may not explode (figuratively).
+Student • Developer
 
-I approach coding like a scientist poking at the universe: prototype fast, break things gently, learn something cool, repeat. Every script is an experiment. Every bug is field data. Every solution is a tiny victory.
+I turn curiosity into small Python experiments—some behave, some evolve into real tools.
 
-🧪 Science is my compass.
-🧠 Curiosity is my fuel.
-🐍 Python is my main tool for turning random thoughts into working creations.
+My workflow blends science, psychology, and a slightly chaotic approach to building things:
+prototype fast, break things (carefully), learn something useful, repeat. 
 
-I’m building up a portfolio of weird, useful, and experimental projects while learning how to design things that don’t break when I blink at them. Future-me is the main stakeholder.
+I’m building a collection of weird, useful, and experimental projects while learning how to design systems that don’t fall apart under pressure.
 
-🛠️ Skills & Tools
-<p> <img src="https://skillicons.dev/icons?i=python,apple,discord" /> </p>
+---
 
-☕ Thanks for dropping by my little corner of the tech universe.
+## 🌌 Projects
+- Developer of **Suankularb Astronomy Club**  
+  🔗 https://skastronomy.pages.dev/
+
+[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://skastronomy.pages.dev/)
+
+---
+
+## 🛠️ Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,apple,discord,linux,docker" />
+</p>
