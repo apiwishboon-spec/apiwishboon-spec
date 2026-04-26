@@ -23,3 +23,7 @@ I’m building a collection of weird, useful, and experimental projects while le
 <p>
   <img src="https://skillicons.dev/icons?i=python,apple,discord,linux,docker" />
 </p>
+
+---
+
+- 📧 [Email Me](mailto:apiwish.boon@gmail.com?subject=From%20GitHub&body=Hi%20Boon,%0A%0APlease%20write%20your%20question%20here.%0A%0AThanks!)
