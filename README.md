@@ -13,9 +13,14 @@ I’m building a collection of weird, useful, and experimental projects while le
 
 ## 🌌 Projects
 - Developer of **Suankularb Astronomy Club**  
-  🔗 https://skastronomy.pages.dev/
+  https://skastronomy.pages.dev/
 
 [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://skastronomy.pages.dev/)
+
+- Personal website
+  https://boon.is-a.dev/
+
+[![Featured on Devs.Surf](https://devs.surf/badges/featured.svg)](https://devs.surf/hub/boon)
 
 ---
 
